@@ -3,7 +3,7 @@
 [![](https://visitcount.itsvg.in/api?id=PhilipJohn005&icon=0&color=0)](https://visitcount.itsvg.in)
   <div align="center" style="display: flex; align-items: right; justify-content: space-between;">
   <span>
-    <img src="https://img.freepik.com/premium-photo/coding-website-development_1015293-6182.jpg?w=996" alt="Coding Image" width="300px">
+    <img src="https://img.freepik.com/premium-photo/coding-website-development_1015293-6182.jpg?w=996" alt="Coding Image" width="500px">
   </span>
 </div>
 
