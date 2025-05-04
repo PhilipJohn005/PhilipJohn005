@@ -1,4 +1,5 @@
-# 👨‍💻 **Philip John**
+<h1 align="center">Hi 👋, I'm Philip John</h1>
+<h3 align="center">A passionate Full Stack Web and App developer from India</h3>
 
 [![](https://visitcount.itsvg.in/api?id=PhilipJohn005&icon=0&color=0)](https://visitcount.itsvg.in)
 <img src="https://img.freepik.com/premium-photo/coding-website-development_1015293-6182.jpg?w=996" width="200px" align="right">
