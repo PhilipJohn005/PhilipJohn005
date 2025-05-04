@@ -1,11 +1,15 @@
 # 👨‍💻 **Philip John**
 
 [![](https://visitcount.itsvg.in/api?id=PhilipJohn005&icon=0&color=0)](https://visitcount.itsvg.in)
-  <div align="center" style="display: flex; align-items: right; justify-content: space-between;">
-  <span>
-    <img src="https://img.freepik.com/premium-photo/coding-website-development_1015293-6182.jpg?w=996" alt="Coding Image" width="500px">
-  </span>
-</div>
+<img src="https://img.freepik.com/premium-photo/coding-website-development_1015293-6182.jpg?w=996" width="200px" align="right">
+
+Passionate developer, tech enthusiast, and lifelong learner.
+
+
+
+<br/><br/><br/><br/> 
+
+
 
 ## 📚 **Languages**
 ![](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
