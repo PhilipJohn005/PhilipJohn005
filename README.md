@@ -4,8 +4,9 @@
 [![](https://visitcount.itsvg.in/api?id=PhilipJohn005&icon=0&color=0)](https://visitcount.itsvg.in)
 <img src="https://img.freepik.com/premium-photo/coding-website-development_1015293-6182.jpg?w=996" width="200px" align="right">
 
-Passionate developer, tech enthusiast, and lifelong learner.
+* Passionate developer, tech enthusiast, and lifelong learner.
 
+* Currently Learning -ML
 
 
 <br/><br/><br/><br/> 
