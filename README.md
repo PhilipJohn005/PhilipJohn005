@@ -44,7 +44,7 @@
 </div>
 
 ## 🏆 **GitHub Trophies**
-![](https://github-profile-trophy.vercel.app/?username=PhilipJohn005&theme=monokai&no-frame=false&column=9&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=PhilipJohn005&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
