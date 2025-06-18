@@ -33,13 +33,14 @@
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=PhilipJohn005&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&rank=percentile" />
   </a>
   <a href="https://github.com/PhilipJohn005">
-    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=PhilipJohn005&theme=algolia&hide_border=false" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipJohn005&theme=algolia&hide_border=false&align=center&include_all_commits=false&count_private=false&layout=donut" />
   </a>
 </div>
 <br>
 <div align="center">
+  
   <a href="https://github.com/PhilipJohn005">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipJohn005&theme=algolia&hide_border=false&align=center&include_all_commits=false&count_private=false&layout=donut" />
+    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=PhilipJohn005&theme=algolia&hide_border=false" />
   </a>
 </div>
 
