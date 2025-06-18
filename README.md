@@ -1,4 +1,7 @@
-<h1 align="center">Hello👋, I'm Philip</h1>
+<h1 align="center">
+  Hello <img src="https://media.tenor.com/_rAgn1VgQdIAAAAi/wave.gif" alt="Waving Hand" width="30" /> 
+  , I'm Philip
+</h1>
 <h3 align="center">A passionate Full Stack Web and App developer from India</h3>
 
 [![](https://visitcount.itsvg.in/api?id=PhilipJohn005&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -10,7 +13,6 @@
 
 
 <br/><br/><br/><br/> 
-
 
 
 ## 📚 **Languages**
@@ -26,12 +28,23 @@
 ![](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 📊 **GitHub Stats**
-![](https://github-readme-stats.vercel.app/api?username=PhilipJohn005&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PhilipJohn005&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipJohn005&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <a href="https://github.com/PhilipJohn005">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=PhilipJohn005&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&rank=percentile" />
+  </a>
+  <a href="https://github.com/PhilipJohn005">
+    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=PhilipJohn005&theme=algolia&hide_border=false" />
+  </a>
+</div>
+<br>
+<div align="center">
+  <a href="https://github.com/PhilipJohn005">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipJohn005&theme=algolia&hide_border=false&align=center&include_all_commits=false&count_private=false&layout=donut" />
+  </a>
+</div>
 
 ## 🏆 **GitHub Trophies**
-![](https://github-profile-trophy.vercel.app/?username=PhilipJohn005&theme=flat&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=PhilipJohn005&theme=monokai&no-frame=false&column=9&no-bg=true&margin-w=4)
 
 ---
 
