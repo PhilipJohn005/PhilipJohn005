@@ -30,7 +30,7 @@
 ## <img src="https://media.tenor.com/LSHKMiRdLggAAAAj/statistics-trending-up.gif" width="30" /> **GitHub Stats**
 <div align="center" >
   <a href="https://github.com/PhilipJohn005">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=PhilipJohn005&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&rank_icon=github" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=PhilipJohn005&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" />
   </a>
   <a href="https://github.com/PhilipJohn005">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipJohn005&theme=algolia&hide_border=false&align=center&include_all_commits=false&count_private=false&layout=donut&hide=ShaderLab,CMake" />
