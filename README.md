@@ -30,10 +30,10 @@
 ## <img src="https://media.tenor.com/LSHKMiRdLggAAAAj/statistics-trending-up.gif" width="30" /> **GitHub Stats**
 <div align="center" >
   <a href="https://github.com/PhilipJohn005">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=PhilipJohn005&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" />
+    <img height="200"src="https://github-readme-stats.vercel.app/api?username=PhilipJohn005&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" />
   </a>
   <a href="https://github.com/PhilipJohn005">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipJohn005&theme=algolia&hide_border=false&align=center&include_all_commits=false&count_private=false&layout=donut&hide=ShaderLab,CMake" />
+    <img height="195"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipJohn005&theme=algolia&hide_border=false&align=center&include_all_commits=false&count_private=false&layout=donut&hide=ShaderLab,CMake" />
   </a>
 </div>
 <br>
@@ -44,7 +44,10 @@
 </div>
 
 ## <img src="https://media.tenor.com/0ENB5HuTH0gAAAAj/trophy-beker.gif" width="30" /> **GitHub Trophies**
-![](https://github-profile-trophy.vercel.app/?username=PhilipJohn005&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+<div style="display: flex; overflow-x: auto; align-items: center;">
+  <img src="https://github-profile-trophy.vercel.app/?username=PhilipJohn005&theme=monokai&no-frame=false&no-bg=true&margin-w=4" />
+</div>
+
 
 ---
 
