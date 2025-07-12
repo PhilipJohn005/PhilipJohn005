@@ -44,10 +44,7 @@
 </div>
 
 ## <img src="https://media.tenor.com/0ENB5HuTH0gAAAAj/trophy-beker.gif" width="30" /> **GitHub Trophies**
-<div style="display: flex; overflow-x: auto; align-items: center;">
-  <!-- Adjusted query to display multiple trophies in a row -->
-  <img src="https://github-profile-trophy.vercel.app/?username=PhilipJohn005&theme=monokai&no-frame=false&no-bg=true&margin-w=4&column=9" />
-</div>
+![](https://github-profile-trophy.vercel.app/?username=PhilipJohn005&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
 
 ---
