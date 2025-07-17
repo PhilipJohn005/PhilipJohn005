@@ -1,4 +1,4 @@
-
+<img src="./banner.png" alt="Banner" width="100%" />
 <h1 align="center">
   Hello there <img src="https://media.tenor.com/_rAgn1VgQdIAAAAi/wave.gif" width="30">, I'm Philip
 </h1>
