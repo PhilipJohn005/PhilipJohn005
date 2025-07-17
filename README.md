@@ -1,28 +1,113 @@
+
 <h1 align="center">
-  Hello <img src="https://media.tenor.com/_rAgn1VgQdIAAAAi/wave.gif" alt="Waving Hand" width="30" /> 
-  , I'm Philip
+  Hello there <img src="https://media.tenor.com/_rAgn1VgQdIAAAAi/wave.gif" width="30">, I'm Philip
 </h1>
-<h3 align="center">A passionate Full Stack Web and App developer from India</h3>
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/PhilipJohn005&label=Views&labelColor=%232ccce4&countColor=%23222222&style=flat)](https://visitorbadge.io/status?path=https://github.com/PhilipJohn005)
-<img src="https://img.freepik.com/premium-photo/coding-website-development_1015293-6182.jpg?w=996" width="200px" align="right">
+<h3 align="center">Full Stack Web & App Developer | Passionate about building things that scale</h3>
 
-* Passionate developer, tech enthusiast, and lifelong learner.
+<p align="center">
+  <a href="https://visitorbadge.io/status?path=https://github.com/PhilipJohn005">
+    <img src="https://api.visitorbadge.io/api/visitors?path=https://github.com/PhilipJohn005&label=Views&labelColor=%232ccce4&countColor=%23222222&style=flat" />
+  </a>
+</p>
 
-* Currently Learning -ML
+---
+
+<img src="https://64.media.tumblr.com/0870408ef69639327475f93f665ac490/92c7bc6db974c4d5-ab/s2048x3072/ee299068d73c2a392fc857eef0b8dd7bb830351e.gif" width="250" align="right" style="margin-left: 20px; margin-top: 10px;" />
+
+<!-- 👇 Now the text flows nicely without crowding -->
+
+- 🧑‍💻 **Developer by passion, problem-solver by mindset**  
+- 🌐 Crafting full-stack web & mobile apps  
+- 🧠 Currently exploring: **Machine Learning**  
+- 🛠️ Love building things that live on the internet  
+- 📍 Location: **India**
+
+---
 
 
 <br/><br/><br/><br/> 
 
 
-## <img src="https://i.pinimg.com/originals/b4/13/34/b41334a036d6796c281a6e5cbb36e4b5.gif" width="30"/> **Languages**
-![](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
+## **Languages and Tools**
+<div align="center">
+  <span style="display:inline-block; vertical-align:middle; margin: 6px;">
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/>
+  </span>
+  <span style="display:inline-block; vertical-align:middle; margin: 6px;">
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" alt="Android Studio" title="Android Studio"/>
+  </span>
+  <span style="display:inline-block; vertical-align:middle; margin: 6px;">
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/>
+  </span>
+  <span style="display:inline-block; vertical-align:middle; margin: 6px;">
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" alt="Firebase" title="Firebase"/>
+  </span>
+  <span style="display:inline-block; vertical-align:middle; margin: 6px;">
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/supabase.png" alt="Supabase" title="Supabase"/>
+  </span>
+  <span style="display:inline-block; vertical-align:middle; margin: 6px;">
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" alt="ShadCn UI" title="ShadCn UI"/>
+  </span>
+  <span style="display:inline-block; vertical-align:middle; margin: 6px;">
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/>
+  </span>
+  <span style="display:inline-block; vertical-align:middle; margin: 6px;">
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/>
+  </span>
+  <span style="display:inline-block; vertical-align:middle; margin: 6px;">
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/>
+  </span>
+  <span style="display:inline-block; vertical-align:middle; margin: 6px;">
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/>
+  </span>
+  <span style="display:inline-block; vertical-align:middle; margin: 6px;">
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/>
+  </span>
+  <span style="display:inline-block; vertical-align:middle; margin: 6px;">
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" alt="Vite" title="Vite"/>
+  </span>
+  <span style="display:inline-block; vertical-align:middle; margin: 6px;">
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/>
+  </span>
+  <span style="display:inline-block; vertical-align:middle; margin: 6px;">
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kotlin.png" alt="Kotlin" title="Kotlin"/>
+  </span>
+  <span style="display:inline-block; vertical-align:middle; margin: 6px;">
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/>
+  </span>
+  <span style="display:inline-block; vertical-align:middle; margin: 6px;">
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
+  </span>
+  <span style="display:inline-block; vertical-align:middle; margin: 6px;">
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" title="NumPy"/>
+  </span>
+  <span style="display:inline-block; vertical-align:middle; margin: 6px;">
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/>
+  </span>
+  <span style="display:inline-block; vertical-align:middle; margin: 6px;">
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" alt="Flutter" title="Flutter"/>
+  </span>
+  <span style="display:inline-block; vertical-align:middle; margin: 6px;">
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/expo.png" alt="Expo" title="Expo"/>
+  </span>
+  <span style="display:inline-block; vertical-align:middle; margin: 6px;">
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/>
+  </span>
+  <span style="display:inline-block; vertical-align:middle; margin: 6px;">
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongoDB" title="mongoDB"/>
+  </span>
+  <span style="display:inline-block; vertical-align:middle; margin: 6px;">
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/>
+  </span>
+  <span style="display:inline-block; vertical-align:middle; margin: 6px;">
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" alt="Nginx" title="Nginx"/>
+  </span>
+  <span style="display:inline-block; vertical-align:middle; margin: 6px;">
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS"/>
+  </span>
+</div>
 
-## <img src="https://media.tenor.com/KvRIHOyJN-sAAAAj/gears-spinning.gif" width="30"/> **Frameworks & Tools**
-![](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white) ![](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![](https://img.shields.io/badge/React%20Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![](https://img.shields.io/badge/Android-34A853.svg?style=for-the-badge&logo=Android&logoColor=white)
-
-## <img src="https://cdn.pixabay.com/animation/2023/03/27/07/02/07-02-55-525_512.gif" width="30"/>**Databases & Cloud**
-![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white) ![](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## <img src="https://cdn.glitch.me/project-avatar/78ba4e5b-5ff2-42d0-9ce6-7aafe2d3c594.png?2021-09-07T12:49:58.310Z" width="30"/> **Design Tools**
 ![](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
