@@ -25,10 +25,6 @@
 
 ---
 
-
-<br/><br/><br/><br/> 
-
-
 ## **Languages and Tools**
 <div align="center">
   <span style="display:inline-block; vertical-align:middle; margin: 6px;">
@@ -108,9 +104,6 @@
   </span>
 </div>
 
-
-## <img src="https://cdn.glitch.me/project-avatar/78ba4e5b-5ff2-42d0-9ce6-7aafe2d3c594.png?2021-09-07T12:49:58.310Z" width="30"/> **Design Tools**
-![](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## <img src="https://media.tenor.com/LSHKMiRdLggAAAAj/statistics-trending-up.gif" width="30" /> **GitHub Stats**
 <div align="center" >
