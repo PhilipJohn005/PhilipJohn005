@@ -111,7 +111,7 @@
     <img height="200"src="https://github-readme-stats.vercel.app/api?username=PhilipJohn005&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" />
   </a>
   <a href="https://github.com/PhilipJohn005">
-    <img height="195"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipJohn005&theme=algolia&hide_border=false&align=center&include_all_commits=false&count_private=false&layout=donut&hide=ShaderLab,CMake" />
+    <img height="195"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipJohn005&theme=algolia&hide_border=false&align=center&include_all_commits=false&count_private=false&layout=donut&hide=ShaderLab,CMake,C%23" />
   </a>
 </div>
 <br>
