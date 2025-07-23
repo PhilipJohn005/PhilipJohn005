@@ -3,7 +3,7 @@
   Hello there <img src="https://media.tenor.com/_rAgn1VgQdIAAAAi/wave.gif" width="30">, I'm Philip
 </h1>
 
-<h3 align="center">Full Stack Web & App Developer | Passionate about building things that scale</h3>
+<h3 align="center">Full Stack Web & App Developer | Building things that scale</h3>
 
 <p align="center">
   <a href="https://visitorbadge.io/status?path=https://github.com/PhilipJohn005">
@@ -19,7 +19,7 @@
 
 - 🧑‍💻 **Developer by passion, problem-solver by mindset**  
 - 🌐 Crafting full-stack web & mobile apps  
-- 🧠 Currently exploring: **Machine Learning**  
+- 🧠 Currently exploring: **Machine Learning, OpenCV**  
 - 🛠️ Love building things that live on the internet  
 - 📍 Location: **India**
 
