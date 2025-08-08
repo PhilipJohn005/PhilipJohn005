@@ -25,7 +25,7 @@
 
 ---
 
-## **Languages and Tools**
+## <img src="https://media.tenor.com/KvRIHOyJN-sAAAAj/gears-spinning.gif" width="30" /> **Languages and Tools**
 <div align="center">
   <span style="display:inline-block; vertical-align:middle; margin: 6px;">
     <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/>
