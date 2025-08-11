@@ -25,6 +25,14 @@
 
 ---
 
+
+## 📰 Recently Published Articles
+
+- [Building a Scalable Telegram Bot System with Chat-Based Login using Firebase, AWS Lambda & SQS](https://medium.com/aws-in-plain-english/building-a-scalable-telegram-bot-system-with-chat-based-login-using-firebase-aws-lambda-sqs-5358676f202b)  
+  *Published on Medium (AWS in Plain English)* – A deep dive into building a fault-tolerant, event-driven Telegram bot architecture leveraging Firebase authentication, AWS Lambda for serverless execution, and SQS for message queuing.
+
+---
+
 ## <img src="https://media.tenor.com/KvRIHOyJN-sAAAAj/gears-spinning.gif" width="30" /> **Languages and Tools**
 <div align="center">
   <span style="display:inline-block; vertical-align:middle; margin: 6px;">
