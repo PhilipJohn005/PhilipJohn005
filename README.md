@@ -39,7 +39,7 @@
 
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/vAlar-Morghulis77?theme=chartreuse&font=Encode%20Sans&ext=heatmap" alt="LeetCode Stats" />
+    <img src="https://coding-profile.vercel.app/api?username=vAlar-Morghulis77&theme=Dark" alt="vAlar-Morghulis77's LeetCode Stats" />
 </p>
 
 <p align="center">
