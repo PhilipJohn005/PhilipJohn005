@@ -25,11 +25,29 @@
 
 ---
 
-
 ## 📰 Recently Published Articles
 
 - [Building a Scalable Telegram Bot System with Chat-Based Login using Firebase, AWS Lambda & SQS](https://medium.com/aws-in-plain-english/building-a-scalable-telegram-bot-system-with-chat-based-login-using-firebase-aws-lambda-sqs-5358676f202b)  
   *Published on Medium (AWS in Plain English)* – A deep dive into building a fault-tolerant, event-driven Telegram bot architecture leveraging Firebase authentication, AWS Lambda for serverless execution, and SQS for message queuing.
+
+---
+
+<h2 align="center">
+  <img src="https://media.tenor.com/dY7V1z0NsbwAAAAi/brain-brainstorm.gif" width="30" />
+  LeetCode
+</h2>
+
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/vAlar-Morghulis77?theme=chartreuse&font=Encode%20Sans&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/vAlar-Morghulis77/">
+    <img src="https://img.shields.io/badge/View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
