@@ -19,7 +19,7 @@
 
 - 🧑‍💻 **Developer by passion, problem-solver by mindset**  
 - 🌐 Crafting full-stack web & mobile apps  
-- 🧠 Currently exploring: **Machine Learning, OpenCV**  
+- 🧠 Currently exploring: **Angular, Springboot**  
 - 🛠️ Love building things that live on the internet  
 - 📍 Location: **India**
 
